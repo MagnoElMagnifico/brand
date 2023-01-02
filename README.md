@@ -12,7 +12,14 @@ The logo is created by me using [Inkscape][2].
 
 The wallpapers come from various sources:
 
+- [catppuccin's wallpapers][wc]
+- [Antonio Sarosi's wallpapers][was]
+- <https://wallpapers.com/>
+- <https://wallpapercave.com/>
+
 [2]: http://www.inkscape.org/
+[wc]: https://github.com/catppuccin/wallpapers
+[was]: https://github.com/antoniosarosi/Wallpapers
 
 
 # Fonts
@@ -24,3 +31,12 @@ My goto fonts for programming are:
 
 [fc]: https://github.com/tonsky/FiraCode
 [cc]: https://github.com/microsoft/cascadia-code
+
+
+<!--
+TODO: phone
+Chip: https://wallpapercave.com/w/wp11635405
+RickOpinion: https://wallpapercave.com/w/wp3277698
+
+RickDeath] https://wallpapercave.com/w/wp11660176
+-->
