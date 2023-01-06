@@ -38,5 +38,12 @@ TODO: phone
 Chip: https://wallpapercave.com/w/wp11635405
 RickOpinion: https://wallpapercave.com/w/wp3277698
 
-RickDeath] https://wallpapercave.com/w/wp11660176
+RickDeath: https://wallpapercave.com/w/wp11660176
+OW: https://wallpapercave.com/w/wp11709783
+City: https://wallpapercave.com/w/wp11808591
+
+https://wallpapercave.com/batman-arkham-city-wallpapers
+https://wallpapercave.com/league-of-legends-wallpapers
+https://wallpapercave.com/the-last-of-us-wallpapers
+https://wallpapercave.com/uncharted-wallpaper
 -->
